@@ -1,3 +1,4 @@
 ### Test site ###
 
-[testlänk](https://piecequiz.github.io/test/test.md)
+
+![The San Juan Mountains are beautiful!](/images/test.jpg "Test")
